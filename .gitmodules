@@ -2,6 +2,6 @@
 	path = Backend
 	url = https://github.com/ReF1ys/cnc-digital.git
 
-[submodule "frontend"]
-	path = frontend
+[submodule "Frontend"]
+	path = Frontend
 	url = https://github.com/ReF1ys/stan_project.git
